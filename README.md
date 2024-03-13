@@ -7,7 +7,7 @@ Adversarial Attack Method Based on Enhanced Spatial Momentum
 Jun Hu, [Guanghao Wei](https://github.com/Weiguanghao918)
 
 ## Requirements
-+ GPU: NVIDIA A40 RTX3090 RTX A4000
++ GPU: NVIDIA V100 RTX 3090 RTX A4000
 + Operating System: Ubuntu 20.04
 + Python >= 3.6.5
 + Tensorflow >= 1.12.0
