@@ -2,7 +2,7 @@
 
 This repository contains code to reproduce results from the paper:
 
-Adversarial Attack Method Based on Enhanced Spatial Momentum
+Hu, J., Wei, G., Xia, S. et al. Adversarial attack method based on enhanced spatial momentum. Int. J. Mach. Learn. & Cyber. (2024). https://doi.org/10.1007/s13042-024-02290-5
 
 Jun Hu, [Guanghao Wei](https://github.com/Weiguanghao918)
 
